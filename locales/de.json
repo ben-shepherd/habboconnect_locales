@@ -1,0 +1,24 @@
+{
+	"about": "Wat betreft",
+	"api.register_error": "Beim Abschließen Ihrer Registrierung ist ein Problem aufgetreten.",
+	"api.verify_error": "Ihr Code wurde nicht verifiziert. Stellen Sie sicher, dass Sie es in Ihr Habbo-Motto einfügen.",
+	"cancel": "Stornieren",
+	"landing.change_locale": "Ändere deine Sprache",
+	"landing.create_password": "Passwort erstellen",
+	"landing.footer.authors": "Von den Machern von",
+	"landing.habbo_motto": "Habbo Motto - Bestätigungscode",
+	"landing.habbo_username": "Habbo Nutzername",
+	"landing.hotel": "Wählen Sie Ihr Hotel aus",
+	"landing.party": "HABBO'S HABEN SICH DER PARTEI ANGEGEBEN",
+	"landing.password": "Einmaliges Passwort",
+	"landing.social": "Social Login",
+	"landing.success.body": [
+		"Bedankt voor uw aanmelding bij HabboConnect.com - Volg ons Twitter-account om op de hoogte te blijven van het laatste nieuws over onze komende release @hbcfansite",
+		"Habboconnect heeft als doel de manier waarop we Habbo gebruiken en spelen op een wereldwijde schaal te veranderen, door de gebruiker weer de controle te geven door hen een gevarieerde verzameling tools aan te bieden om op een unieke en creatieve manier met Habbo om te gaan.",
+		"Terwijl we hard werken aan het leveren van de volgende generatie Habbo-fansite die we zouden waarderen elke ondersteuning die we kunnen krijgen, hebben we een patroon gecreëerd waar Habbo's kunnen instappen en hun ondersteuning voor de site kunnen tonen. Ondersteuning van de site kost slechts £ 1 vroege toegang en u krijgt een speciale herkenningsbadge op onze site wanneer deze wordt vrijgegeven en vroege voorbeelden van de site. Daarnaast heb je elke maand dat je geabonneerd bent 1 extra ticket voor onze 530 Credit en 1.000 Diamond giveaway ter waarde van £ 40"
+	],
+	"landing.success.title": "Succesvolle registratie",
+	"landing.verify": "Überprüfen",
+	"landing.welcome": "Herzlich willkommen",
+	"ok": "Okay"
+}

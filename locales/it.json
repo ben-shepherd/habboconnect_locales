@@ -1,0 +1,24 @@
+{
+    "about": "Riguardo a noi",
+    "api.register_error": "There was a problem completing your registration.",
+    "api.verify_error": "Il tuo codice non è stato verificato. Assicurati di inserirlo nel tuo motto Habbo.",
+	"cancel": "Annulla",
+	"landing.change_locale": "Cambia la tua lingua",
+	"landing.create_password": "Crea password",
+	"landing.footer.authors": "Dai creatori di",
+	"landing.habbo_motto": "Habbo Motto - Codice di verifica",
+	"landing.habbo_username": "Habbo Nome utente",
+	"landing.hotel": "Seleziona il tuo hotel",
+	"landing.party": "HABBO'S HANNO PARTECIPATO AL PARTITO",
+	"landing.password": "Crea una password unica",
+    "landing.social": "Accesso sociale",
+    "landing.success.body": [
+		"Grazie per esserti registrato su HabboConnect.com - Ti preghiamo di seguire il nostro account Twitter per rimanere aggiornato sulle ultime novità riguardanti la nostra prossima uscita @hbcfansite",
+		"Habboconnect mira a cambiare il modo in cui usiamo e giochiamo Habbo su scala globale, riportando l'utente sotto controllo offrendo loro una collezione diversificata di strumenti per interagire con Habbo in modi unici e creativi.",
+		"Mentre lavoriamo duramente per offrire il sito di fan Habbo di prossima generazione, apprezzeremmo qualsiasi supporto possiamo ottenere, abbiamo creato un modello in cui Habbos può entrare e mostrare il loro supporto per il sito. Supportare il sito costa solo £ 1 di accesso anticipato e otterrai uno speciale badge di riconoscimento sul nostro sito quando rilasciato e anteprime anticipate del sito. Inoltre, ogni mese in cui ti iscrivi avrai 1 biglietto extra per il nostro credito 530 e un omaggio di 1.000 diamanti per un valore di £ 40"
+	],
+	"landing.success.title": "Registrazione riuscita",
+	"landing.verify": "Verificare",
+	"landing.welcome": "Benvenuto",
+	"ok": "Va bene"
+}

@@ -1,0 +1,24 @@
+{
+    "about": "Acerca de",
+    "api.register_error": "Hubo un problema al completar su registro.",
+	"api.verify_error": "Su código no fue verificado. Asegúrate de haberlo ingresado en tu lema Habbo.",
+	"cancel": "Cancelar",
+	"landing.change_locale": "Cambia tu idioma",
+	"landing.create_password": "Crear contraseña",
+	"landing.footer.authors": "De los creadores de",
+	"landing.habbo_motto": "Habbo Lema - Código de verificación",
+	"landing.habbo_username": "Habbo nombre de usuario",
+	"landing.hotel": "Selecciona tu hotel",
+	"landing.party": "HABBO'S Se han unido a la fiesta",
+	"landing.password": "Crea una Contraseña Única",
+    "landing.social": "Inicio de sesión social",
+    "landing.success.body": [
+		"Gracias por registrarse en HabboConnect.com - Siga nuestra cuenta de Twitter para mantenerse al día con las últimas noticias sobre nuestro próximo lanzamiento @hbcfansite",
+		"Habboconnect tiene como objetivo cambiar la forma en que usamos y jugamos Habbo a escala global, devolviendo el control al usuario ofreciéndoles una colección diversa de herramientas para interactuar con Habbo de maneras únicas y creativas.",
+		"Si bien trabajamos arduamente para ofrecer el sitio de fans de Habbo de próxima generación, agradeceríamos cualquier apoyo que podamos obtener, hemos creado un modelo en el que Habbos puede contribuir y mostrar su apoyo al sitio. Apoyar el sitio cuesta solo 1 £ de acceso anticipado y obtendrá una insignia de reconocimiento especial en nuestro sitio cuando se publique y las vistas previas anticipadas del sitio. Además de esto, cada mes que permanezca suscrito, tendrá 1 boleto adicional para nuestro 530 Credit y 1,000 sorteos de diamantes por valor de £ 40"
+	],
+	"landing.success.title": "Successful Registration",
+	"landing.verify": "Verificar",
+	"landing.welcome": "¡Bienvenido",
+	"ok": "Bueno"
+}

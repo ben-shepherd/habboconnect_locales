@@ -1,0 +1,24 @@
+{
+    "about": "à propos de nous",
+    "api.register_error": "Un problème est survenu lors de l'enregistrement.",
+    "api.verify_error": "Votre code n'a pas été vérifié. Assurez-vous de l'insérer dans votre devise Habbo.",
+	"cancel": "Annuler",
+	"landing.change_locale": "Changez votre langue",
+	"landing.create_password": "Créer un mot de passe",
+	"landing.footer.authors": "Des créateurs de",
+	"landing.habbo_motto": "Habbo Devise - Code de vérification",
+	"landing.habbo_username": "Habbo Nom d'utilisateur",
+	"landing.hotel": "Sélectionnez votre hôtel",
+	"landing.party": "HABBO'S ONT REJOINT LE PARTI",
+	"landing.password": "Créer un mot de passe unique",
+	"landing.social": "Connexion sociale",
+    "landing.success.body": [
+		"Merci de vous être inscrit sur HabboConnect.com - Veuillez suivre notre compte Twitter pour suivre les dernières nouvelles concernant notre prochaine version @hbcfansite",
+		"Habboconnect vise à changer notre façon d'utiliser et de jouer à Habbo à l'échelle mondiale, en redonnant à l'utilisateur le contrôle en lui offrant une collection variée d'outils pour interagir avec Habbo de manière unique et créative.",
+		"Alors que nous travaillons dur pour fournir la prochaine génération de fansites Habbo, nous apprécierions tout soutien que nous pouvons obtenir, nous avons créé un patreon où Habbos peut intégrer et montrer leur soutien pour le site. La prise en charge du site coûte seulement 1 £ d'accès anticipé et vous obtiendrez un badge de reconnaissance spécial sur notre site lors de sa publication et des premières prévisualisations du site. En plus de cela, chaque mois que vous restez abonné, vous aurez 1 billet supplémentaire pour notre 530 crédit et 1000 cadeaux Diamond d'une valeur de 40 £"
+	],
+	"landing.success.title": "Inscription réussie",
+	"landing.verify": "Verify",
+	"landing.welcome": "Bonjour",
+	"ok": "d'accord"
+}

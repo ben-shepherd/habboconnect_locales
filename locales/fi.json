@@ -1,0 +1,24 @@
+{
+	"about": "Noin",
+	"api.register_error": "Rekisteröinnin suorittamisessa oli ongelma.",
+	"api.verify_error": "Koodiasi ei vahvistettu. Varmista, että olet kirjoittanut sen Habbo-tunnukseesi.",
+	"cancel": "Peruuttaa",
+	"landing.change_locale": "Vaihda kieli",
+	"landing.create_account": "Luo tili",
+	"landing.footer.authors": "Luojat",
+	"landing.habbo_motto": "Habbo-tunnus - todennuskoodi",
+	"landing.habbo_username": "Habbo-käyttäjänimi",
+	"landing.hotel": "Valitse hotellisi",
+	"landing.party": "HABBO on liittynyt juhliin",
+	"landing.password": "Luo yksilöllinen salasana",
+	"landing.social": "Sosiaalinen kirjautuminen",
+	"landing.success.body": [
+		"Kiitos, että rekisteröit HabboConnect.com-sivustoon - Seuraa Twitter-tiliämme seurataksesi viimeisimpiä tulevaa julkaisua @hbcfansite",
+		"Habboconnectin tavoitteena on muuttaa tapaa, jolla käytämme ja pelaamme Habboa globaalissa mittakaavassa, palauttamalla käyttäjän hallintaan tarjoamalla heille monipuolisen työkalukokoelman, jonka avulla Habbo voi olla yhteydessä yksilöllisiin ja luoviin tapoihin.",
+		"Vaikka työskentelemme ahkerasti seuraavan sukupolven Habbo-fanisivuston toimittamisessa, olisimme kiitollisia saatavasta tuesta, olemme luoneet patreonin, johon Habbos voi sirotella ja osoittaa tukensa sivustolle. Sivuston tukeminen maksaa vain 1 punta varhaisen käyttöoikeuden, ja saat erityisen tunnustustunnuksen sivustollemme julkaisemisen yhteydessä ja sivuston varhaiset esikatselut. Tämän lisäksi jokaisella tilaamallasi kuukaudella sinulla on 1 ylimääräinen lippu kohti 530-luotto- ja 1 000 Diamond-lahjaamme 40 euron arvosta."
+	],
+	"landing.success.title": "Onnistunut rekisteröinti",
+	"landing.verify": "tarkistaa",
+	"landing.welcome": "Tervetuloa",
+	"ok": "Okei"
+}

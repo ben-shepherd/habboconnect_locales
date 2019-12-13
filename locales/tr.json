@@ -1,0 +1,24 @@
+{
+    "about": "Hakkımızda",
+	"api.register_error": "There was a problem completing your registration.",
+    "api.verify_error": "Kodunuz doğrulanmadı. Habbo sloganınıza eklediğinizden emin olun.",
+	"cancel": "İptal etmek",
+	"landing.change_locale": "Dilinizi değiştirin",
+	"landing.create_password": "Şifre oluştur",
+	"landing.footer.authors": "Yaratıcılarından",
+	"landing.habbo_motto": "Habbo Parola - Doğrulama Kodu",
+	"landing.habbo_username": "Habbo Kullanıcı adı",
+	"landing.hotel": "Otelinizi seçiniz",
+	"landing.party": "HABBO'S Partiye Katıldık",
+	"landing.password": "Benzersiz Bir Şifre Oluştur",
+    "landing.social": "Sosyal Giriş",
+    "landing.success.body": [
+		"HabboConnect.com'a kaydolduğunuz için teşekkür ederiz - Gelecek sürüm @hbcfansite hakkındaki en son haberleri takip etmek için lütfen Twitter hesabımızı takip edin.",
+		"Habboconnect, Habbo'yu kullanma ve kullanma şeklimizi global ölçekte değiştirmeyi amaçlayarak, Habbo'yla benzersiz ve yaratıcı bir şekilde etkileşime girebilecekleri çeşitli araçlar koleksiyonu sunarak kullanıcıyı tekrar kontrol altına alıyor.",
+		"Gelecekteki nesil Habbo fan sitesine ulaşmak için çok çaba sarf etmemize rağmen, alabileceğimiz her türlü desteği takdir edersek, Habbos'un girebileceği ve site için desteklerini gösterebileceği bir patrilyon oluşturduk. Siteyi desteklemek yalnızca £ 1 erken erişim maliyetidir ve sitenin yayınlandığında ve sitenin ilk kez önizlendiğinde özel bir tanınma rozeti alırsınız. Buna ek olarak, abone olduğunuz her ay 530 Kredi ve 1 £ 40 değerinde 1.000 hediye hediye için 1 ekstra biletiniz olacak"
+	],
+	"landing.success.title": "Başarılı kayıt",
+	"landing.verify": "DOĞRULAYIN",
+	"landing.welcome": "Hoşgeldiniz",
+	"ok": "Tamam"
+}

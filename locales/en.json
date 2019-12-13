@@ -1,0 +1,24 @@
+{
+	"about": "About",
+	"api.register_error": "There was a problem completing your registration.",
+	"api.verify_error": "Your code was was not verified. Make sure you have entered it into your Habbo motto.",
+	"cancel": "Cancel",
+	"landing.change_locale": "Change your language",
+	"landing.create_account": "Create Account",
+	"landing.footer.authors": "From the creators of",
+	"landing.habbo_motto": "Habbo Motto - Verifcation Code",
+	"landing.habbo_username": "Habbo Username",
+	"landing.hotel": "Select your hotel",
+	"landing.party": "HABBO'S HAVE JOINED THE PARTY",
+	"landing.password": "Create a Unique Password",
+	"landing.social": "Social Login",
+	"landing.success.body": [
+		"Thank you for registering to HabboConnect.com - Please follow our Twitter account to keep up with all the latest news regarding our coming release @hbcfansite",
+		"Habboconnect aims to change the way we use and play Habbo on a global scale, putting the user back in control by offering them a diverse collection of tools to engage with Habbo in unique and creative ways.",
+		"Whilst we work hard on delivering the next generation Habbo fansite we would appreciate any support we can get, we’ve created a patreon where Habbos can chip in and show their support for the site. Supporting the site costs just £1 early access and you’ll get a special recognition badge on our site when released and early previews of the site. In addition to this, each month you stay subscribed you will have 1 extra ticket towards our 530 Credit and 1,000 Diamond giveaway worth £40"
+	],
+	"landing.success.title": "Successful Registration",
+	"landing.verify": "Verify",
+	"landing.welcome": "Welcome",
+	"ok": "Okay"
+}
